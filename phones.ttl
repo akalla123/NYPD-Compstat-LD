@@ -1,0 +1,297 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+<http://htkg.stevens.edu/phone/instance/9292209422> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292209422 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/2058646153> ns1:areaCode 205 ;
+    <http://htkg.stevens.edu/phone/raw/> 2058646153 .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+<http://htkg.stevens.edu/phone/instance/9292209422> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292209422 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/2058646153> ns1:areaCode 205 ;
+    <http://htkg.stevens.edu/phone/raw/> 2058646153 .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+<http://htkg.stevens.edu/phone/instance/9143388838> ns1:areaCode 914 ;
+    <http://htkg.stevens.edu/phone/raw/> 9143388838 .
+
+<http://htkg.stevens.edu/phone/instance/9292209422> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292209422 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/2058646153> ns1:areaCode 205 ;
+    <http://htkg.stevens.edu/phone/raw/> 2058646153 .
+
+<http://htkg.stevens.edu/phone/instance/3055218162> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3055218162 .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+<http://htkg.stevens.edu/phone/instance/9143388838> ns1:areaCode 914 ;
+    <http://htkg.stevens.edu/phone/raw/> 9143388838 .
+
+<http://htkg.stevens.edu/phone/instance/9292209422> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292209422 .
+
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/2058646153> ns1:areaCode 205 ;
+    <http://htkg.stevens.edu/phone/raw/> 2058646153 .
+
+<http://htkg.stevens.edu/phone/instance/3055218162> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3055218162 .
+
+<http://htkg.stevens.edu/phone/instance/4233933019> ns1:areaCode 423 ;
+    <http://htkg.stevens.edu/phone/raw/> 4233933019 .
+
+<http://htkg.stevens.edu/phone/instance/4692625567> ns1:areaCode 469 ;
+    <http://htkg.stevens.edu/phone/raw/> 4692625567 .
+
+<http://htkg.stevens.edu/phone/instance/4782857742> ns1:areaCode 478 ;
+    <http://htkg.stevens.edu/phone/raw/> 4782857742 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/9042746349> ns1:areaCode 904 ;
+    <http://htkg.stevens.edu/phone/raw/> 9042746349 .
+
+<http://htkg.stevens.edu/phone/instance/9143388838> ns1:areaCode 914 ;
+    <http://htkg.stevens.edu/phone/raw/> 9143388838 .
+
+<http://htkg.stevens.edu/phone/instance/9292209422> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292209422 .
+

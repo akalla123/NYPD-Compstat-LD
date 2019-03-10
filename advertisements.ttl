@@ -1,0 +1,735 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "💄💄👄💄💄Susie 💄💄👄💄💄I want to be your favorite Secret💄💄Call/Text Me646-493-1002💄💄 Hi, there...I'm a big pleasure seeker... The thought of being your muse, your favorite little secret excites me extremely!!!Call/Text Me Now...Anytime646-493-1002Susie"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/mAyb38_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Outcall Only"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/6464931002> ;
+    foaf:time "22:06:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "💄💄👄💄💄Susie 💄💄👄💄💄I want to be your favorite Secret💄💄Call/Text Me646-493-1002💄💄 Hi, there...I'm a big pleasure seeker... The thought of being your muse, your favorite little secret excites me extremely!!!Call/Text Me Now...Anytime646-493-1002Susie"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/mAyb38_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Outcall Only"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/6464931002> ;
+    foaf:time "22:06:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello, I'm Kayla your exotic beauty. Sexy and charismatic combined with a spicy taste of eroticism and fantasy.I provide no rush Outcallservice. I entertain only gentlemen who appreciate the company of a sexy classy girl. Be discreet with questions, I don't answer to explicit questions over the phone.My services are top quality and I can guarantee satisfaction. With my beautiful lips and bedroom eyes I love what I do and enjoy satisfying upscale respectful gentlemen. Untill we meet...Kayla 929-220-9422"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/tP4ANq_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "NYC/OUTCALL"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9292209422> ;
+    foaf:time "22:03:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "💄💄👄💄💄Susie 💄💄👄💄💄I want to be your favorite Secret💄💄Call/Text Me646-493-1002💄💄 Hi, there...I'm a big pleasure seeker... The thought of being your muse, your favorite little secret excites me extremely!!!Call/Text Me Now...Anytime646-493-1002Susie"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/mAyb38_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Outcall Only"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/6464931002> ;
+    foaf:time "22:06:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello, I'm Kayla your exotic beauty. Sexy and charismatic combined with a spicy taste of eroticism and fantasy.I provide no rush Outcallservice. I entertain only gentlemen who appreciate the company of a sexy classy girl. Be discreet with questions, I don't answer to explicit questions over the phone.My services are top quality and I can guarantee satisfaction. With my beautiful lips and bedroom eyes I love what I do and enjoy satisfying upscale respectful gentlemen. Untill we meet...Kayla 929-220-9422"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/tP4ANq_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "NYC/OUTCALL"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9292209422> ;
+    foaf:time "22:03:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "💄💄👄💄💄Susie 💄💄👄💄💄I want to be your favorite Secret💄💄Call/Text Me646-493-1002💄💄 Hi, there...I'm a big pleasure seeker... The thought of being your muse, your favorite little secret excites me extremely!!!Call/Text Me Now...Anytime646-493-1002Susie"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/mAyb38_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Outcall Only"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/6464931002> ;
+    foaf:time "22:06:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "If you missed me last time dnt make the same mistake twice. IIwnt be in town for very long. Discree get away? Or short fun when u r on the run? I'm a very safe and discrete provider. Sweeter then sugar. Beautiful and natural. Don't be shy I'm simply one call away. 205 864 6153"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/EvqpO1_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Time square"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/2058646153> ;
+    foaf:time "21:52:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello, I'm Kayla your exotic beauty. Sexy and charismatic combined with a spicy taste of eroticism and fantasy.I provide no rush Outcallservice. I entertain only gentlemen who appreciate the company of a sexy classy girl. Be discreet with questions, I don't answer to explicit questions over the phone.My services are top quality and I can guarantee satisfaction. With my beautiful lips and bedroom eyes I love what I do and enjoy satisfying upscale respectful gentlemen. Untill we meet...Kayla 929-220-9422"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/tP4ANq_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "NYC/OUTCALL"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9292209422> ;
+    foaf:time "22:03:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "💄💄👄💄💄Susie 💄💄👄💄💄I want to be your favorite Secret💄💄Call/Text Me646-493-1002💄💄 Hi, there...I'm a big pleasure seeker... The thought of being your muse, your favorite little secret excites me extremely!!!Call/Text Me Now...Anytime646-493-1002Susie"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/mAyb38_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Outcall Only"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/6464931002> ;
+    foaf:time "22:06:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "-My name is😘❤️👅-Sascha-😘❤️👅 -I'm a college student with a super busy schedule- -Please book in advance- -My #914-338-8838☎️☎️☎️- -I come 2 U- -😘❤️👅-"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/YXqAYT_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "-I Come 2 U-"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9143388838> ;
+    foaf:time "21:29:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "If you missed me last time dnt make the same mistake twice. IIwnt be in town for very long. Discree get away? Or short fun when u r on the run? I'm a very safe and discrete provider. Sweeter then sugar. Beautiful and natural. Don't be shy I'm simply one call away. 205 864 6153"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/EvqpO1_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Time square"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/2058646153> ;
+    foaf:time "21:52:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello, I'm Kayla your exotic beauty. Sexy and charismatic combined with a spicy taste of eroticism and fantasy.I provide no rush Outcallservice. I entertain only gentlemen who appreciate the company of a sexy classy girl. Be discreet with questions, I don't answer to explicit questions over the phone.My services are top quality and I can guarantee satisfaction. With my beautiful lips and bedroom eyes I love what I do and enjoy satisfying upscale respectful gentlemen. Untill we meet...Kayla 929-220-9422"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/tP4ANq_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "NYC/OUTCALL"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9292209422> ;
+    foaf:time "22:03:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "💄💄👄💄💄Susie 💄💄👄💄💄I want to be your favorite Secret💄💄Call/Text Me646-493-1002💄💄 Hi, there...I'm a big pleasure seeker... The thought of being your muse, your favorite little secret excites me extremely!!!Call/Text Me Now...Anytime646-493-1002Susie"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/mAyb38_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Outcall Only"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/6464931002> ;
+    foaf:time "22:06:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "-My name is😘❤️👅-Sascha-😘❤️👅 -I'm a college student with a super busy schedule- -Please book in advance- -My #914-338-8838☎️☎️☎️- -I come 2 U- -😘❤️👅-"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/YXqAYT_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "-I Come 2 U-"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9143388838> ;
+    foaf:time "21:29:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "If you missed me last time dnt make the same mistake twice. IIwnt be in town for very long. Discree get away? Or short fun when u r on the run? I'm a very safe and discrete provider. Sweeter then sugar. Beautiful and natural. Don't be shy I'm simply one call away. 205 864 6153"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/EvqpO1_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Time square"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/2058646153> ;
+    foaf:time "21:52:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "❤️Hello, Gentlemen!!! ❤️❤️Nicole here for You!!❤️❤️I'm a very Sweet Girl who Loves Generous Gentlemen❤️❤️Unrushed Time❤️I Enjoy the Best ❤️❤️If You looking for a Great Tme❤️❤️If You looking for a Spark then TRY ME❤️❤️100% independent ❤️ 100% Real❤️❤️Serious inquiries ONLY❤️❤️❤️❤️❤️NICOLE❤️❤️❤️❤️❤️❤️❤️❤️(305)-521-8162❤️❤️❤️❤️"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/3ffEhY_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "❤️❤️❤️❤️OUTCALL❤️❤️❤️❤️"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/3055218162> ;
+    foaf:time "21:22:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello, I'm Kayla your exotic beauty. Sexy and charismatic combined with a spicy taste of eroticism and fantasy.I provide no rush Outcallservice. I entertain only gentlemen who appreciate the company of a sexy classy girl. Be discreet with questions, I don't answer to explicit questions over the phone.My services are top quality and I can guarantee satisfaction. With my beautiful lips and bedroom eyes I love what I do and enjoy satisfying upscale respectful gentlemen. Untill we meet...Kayla 929-220-9422"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/tP4ANq_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "NYC/OUTCALL"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9292209422> ;
+    foaf:time "22:03:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "❤️Hello, Gentlemen!!! ❤️❤️Nicole here for You!!❤️❤️I'm a very Sweet Girl who Loves Generous Gentlemen❤️❤️Unrushed Time❤️I Enjoy the Best ❤️❤️If You looking for a Great Tme❤️❤️If You looking for a Spark then TRY ME❤️❤️100% independent ❤️ 100% Real❤️❤️Serious inquiries ONLY❤️❤️❤️❤️❤️NICOLE❤️❤️❤️❤️❤️❤️❤️❤️(305)-521-8162❤️❤️❤️❤️"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/xAgygD_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "❤️❤️❤️❤️OUTCALL❤️❤️❤️❤️"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/3055218162> ;
+    foaf:time "21:21:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi Boys My Name Is Kim ❤★Sexy Petite, Just Like You Like ;)★Playful, Flirtatious, unique personality★High Class Companionship★100% GUARANTEED PLEASURE★100 %REAL PHOTOS ❤100% INDEPENDENT★EXOTIC PRINCESS★Dangerously ADDICTING!! All About You NON-rushed experience★ (469) 262-5567 ★"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/i0IHeK_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4692625567> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "💄💄👄💄💄Susie 💄💄👄💄💄I want to be your favorite Secret💄💄Call/Text Me646-493-1002💄💄 Hi, there...I'm a big pleasure seeker... The thought of being your muse, your favorite little secret excites me extremely!!!Call/Text Me Now...Anytime646-493-1002Susie"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/mAyb38_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Outcall Only"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/6464931002> ;
+    foaf:time "22:06:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hi I'm Laura 💋 Let Me Show You My Amazing Skills 💦 Your Satisfaction Is Guranteed💋 I Come to You 😉 Call/Text 423-393-3019 Im Waiting 😘 🏨 SAFE DISCREET 🏨 NO RUSH"^^xsd:string ;
+    foaf:age 28 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/PyYPmC_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Bronx"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4233933019> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "-My name is😘❤️👅-Sascha-😘❤️👅 -I'm a college student with a super busy schedule- -Please book in advance- -My #914-338-8838☎️☎️☎️- -I come 2 U- -😘❤️👅-"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/YXqAYT_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "-I Come 2 U-"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9143388838> ;
+    foaf:time "21:29:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "If you missed me last time dnt make the same mistake twice. IIwnt be in town for very long. Discree get away? Or short fun when u r on the run? I'm a very safe and discrete provider. Sweeter then sugar. Beautiful and natural. Don't be shy I'm simply one call away. 205 864 6153"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/EvqpO1_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Time square"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/2058646153> ;
+    foaf:time "21:52:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "❤️Hello, Gentlemen!!! ❤️❤️Nicole here for You!!❤️❤️I'm a very Sweet Girl who Loves Generous Gentlemen❤️❤️Unrushed Time❤️I Enjoy the Best ❤️❤️If You looking for a Great Tme❤️❤️If You looking for a Spark then TRY ME❤️❤️100% independent ❤️ 100% Real❤️❤️Serious inquiries ONLY❤️❤️❤️❤️❤️NICOLE❤️❤️❤️❤️❤️❤️❤️❤️(305)-521-8162❤️❤️❤️❤️"^^xsd:string ;
+    foaf:age 27 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/3ffEhY_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "❤️❤️❤️❤️OUTCALL❤️❤️❤️❤️"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/3055218162> ;
+    foaf:time "21:22:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hey gentleman it's Tammy😈🍑 Let me help you warm up and release some tension 🍷 I'm 100% real, sweet and naughty girl 😈 Come unwrap your wildest kinkiest dreams 👙💦 Looking to provide a drama free unrushed session 💦💦 My goal is to keep you relaxed and coming back for more 💦💦 904 274 6349 📲"^^xsd:string ;
+    foaf:age 30 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/UM6Mje_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Brooklyn & Surrounding"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/9042746349> ;
+    foaf:time "22:30:00"^^xsd:time .
+
+[] a foaf:Person ;
+    foaf:ad_text "Hello Lover-Lets warm up together! I have talents that everyman desires! You will enjoy all the Sexy I'll bring! Certain to satisfy and delight all your senses!My pussy squirts and I love watching your toes curl as I pleasure you! Seductive and beautiful, and ready for you!I am happy come to your location preferably, however in call can be arranged!I am open minded, I love to take my time, and love fetishes!478 285 7742 I can't wait to hear from you!"^^xsd:string ;
+    foaf:age 25 ;
+    foaf:date "2019-03-09"^^xsd:date ;
+    foaf:image "https://cdn.escortfish.ch/images/byVyBG_thumb_xl.jpg"^^xsd:anyURI ;
+    foaf:location "Manhattan"^^xsd:string ;
+    foaf:phone <http://htkg.stevens.edu/phone/instance/4782857742> ;
+    foaf:time "22:30:00"^^xsd:time .
+
